@@ -12,28 +12,28 @@ global.autoread = true // true a i dah chuan message zawng zawng read vek zelin 
 global.autoread_status = true // true a i dah chuan auto status view in a awm ang
 
 //info
-global.owner = ['918416093656'] // I phone number in thlak rawh
-global.ownernumber = '918416093656' // I phone number in thlak rawh
-global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
+global.owner = ['918837094883'] // I phone number in thlak rawh
+global.ownernumber = '918837094883' // I phone number in thlak rawh
+global.ownername = "HKIMA42" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "HBWABot Mizo" // I bot hming tur dah la
+global.botname = "HKIMA_42" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
-global.themeemoji = '🤖'
-global.creator = "918416093656@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.themeemoji = '🫠'
+global.creator = "918837094883@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["918416093656@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.ownerNumber = ["918837094883@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefixc = ['/'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
 // Sticker Pack Name
-global.packname = "Sticker By"
+global.packname = "Sticker ByHKIMA42"
 global.author = "HBWABot"
 
 //BUTTON INPUT 
 global.buttonyt = "SUBSCRIBE"
-global.buttonyturl = "https://youtube.com/@HBMods_Channel"
+global.buttonyturl = "https://youtube.com/@h.kima42"
 global.buttonig = "Follow Us:)"
-global.buttonigurl = "https://www.instagram.com/herbert_suantak2"
+global.buttonigurl = "https://www.instagram.com/hkima_42"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 //messages
